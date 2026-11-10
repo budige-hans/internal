@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Student Management System
 
 This project is developed using HTML, CSS and JavaScript.
@@ -8,6 +8,6 @@ Features:
 2. Enter Student Name
 3. Enter Roll Number
 4. Display Student Details
-=======
+
 # internal
->>>>>>> b82358c4f06a4ce39a1ecf1b038bf25d130b783b
+
