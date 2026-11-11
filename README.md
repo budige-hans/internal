@@ -9,5 +9,6 @@ Features:
 3. Enter Roll Number
 4. Display Student Details
 
-# internal
+# student management system
+
 
